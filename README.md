@@ -1,6 +1,7 @@
 # Home Credit Default Risk Prediction
 
-This project was completed on **July 8th 2023**. <br>
+**This project was completed on July 8th 2023**. <br>
+
 The main jupyter notebook file is **341.ipynb**.
 
 ### Dataset
